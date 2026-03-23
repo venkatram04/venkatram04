@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Venkat Ram 
+# 👋 Hi, I'm VenkatRam 
 
 <b>Programmer Analyst Trainee @ Cognizant | ASP.NET | C++ | DSA | MSSQL | Web Developer</b> 
 
