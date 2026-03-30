@@ -19,7 +19,7 @@ Strong focus on my top skills, which include Python, AngularJS, and DSA.
 <img src="https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS" /> 
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" /> 
 
-<br><br>
+<br> <br>
 <b>Also comfortable with:</b> C#, React.js, Node.js, AWS, and SQL database design.
 
 ---
