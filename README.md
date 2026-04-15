@@ -23,6 +23,8 @@ Strong focus on my top skills, which include Python, AngularJS, and DSA.
 <b>Also comfortable with:</b> C#, React.js, Node.js, AWS, and SQL database design.
 
 ---
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=venkatram04&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### 📊 GitHub Stats
 
